@@ -14,7 +14,7 @@
 13 HashMap 研究 (解决)<br>
 14 ListView 研究 <br>
 15 Picasso 研究 <br>
-16 排序算法研究 <br>
+16 排序算法研究 (简单研究)<br>
 17 Lru算法研究 <br>
 18 贝塞尔曲线研究 <br>
 19 位运算符研究 <br>
